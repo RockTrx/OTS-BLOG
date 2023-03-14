@@ -8,11 +8,11 @@ import { getDatabase } from "firebase/database";
 const firebaseConfig = {
   apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
   authDomain: process.env.REACT_APP_FIREBASE_AUTH_DOMAIN,
-  projectId: "otsblog-aef66",
+  projectId: "ots-blog",
   storageBucket: process.env.REACT_APP_FIREBASE_STORAGE_BUCKET,
   messagingSenderId: process.env.REACT_APP_FIREBASE_MESSAGING_SENDER_ID,
-  appId: "1:220229643158:web:562b4ebfea336c44234bb7",
-  measurementId: "G-1EBFT5LDTH",
+  appId: "1:659105460080:web:eb55d5d5ec90b38e7f69b5",
+  measurementId: "G-X7W8Q9196Y",
   databaseURL: process.env.REACT_APP_FIREBASE_DATABASE_URL,
 };
 
